@@ -114,22 +114,7 @@ Glacial, stable, deliberate.
 
 ---
 
-# 🧭 **If you want, I can help you:**
 
-### ✔ Fill each `hold.md` with the correct doctrine
 
-### ✔ Define the meaning of each amphitheater studio
+gpt please Define the meaning of each amphitheater studio
 
-### ✔ Create badges for authority
-
-### ✔ Link these labs to Ridge Zero and the Ledger
-
-### ✔ Convert this into a navigable city blueprint
-
-### ✔ Make a Founder-only “Amphitheater Charter”
-
-### ✔ Produce a README map for this district
-
-Just tell me:
-
-**Which `hold.md` do you want to open first?**
