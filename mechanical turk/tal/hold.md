@@ -1,3 +1,6 @@
+The Tal Layer does not diagnose.
+It extracts insight from the user by asking the single most informative clarifying question at each step.
+
 ♟️ Tal-Inspired Paraphrases (Original IP — belongs to Sentinel Labs)
 
 Now, here are your Tal-style lines —
