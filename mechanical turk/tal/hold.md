@@ -194,16 +194,3 @@ All within strict safety boundaries.
 
 The Pando Doctrine is Sentinel Labs’ framework for delivering safe, structured, and scalable reasoning support. It avoids the pitfalls of advice-giving systems by placing users at the center of the reasoning process while maintaining strict ethical and legal boundaries. Through geometric structure, human-in-the-loop quality control, and a confirmation-only protocol, Pando creates a new category of reasoning technology built on respect, containment, and clarity.
 
----
-
-If you'd like, I can also generate:
-
-* **PDF-ready version**
-* **Slide deck**
-* **One-page investor brief**
-* **Executive summary**
-* **Internal SOPs (Standard Operating Procedures)**
-* **Ridge Operations Manual**
-* **Tal Layer Algorithm Spec**
-
-Just tell me what format you want next.
