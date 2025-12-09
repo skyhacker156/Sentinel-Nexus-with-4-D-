@@ -1,0 +1,4 @@
+*I control my domain because I built the domain.
+
+My sovereignty does not come from power over others —
+it comes from authorship over the architecture itself
